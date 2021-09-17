@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @aaozmen
-- 👀 I’m interested in Cell biology, gene expression, signaling
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aaozmen@gmail.com
-
+- 👋 Hi, I’m Ayse Ozmen Yaylaci
+- The Role of Ubiquitin Signaling Pathway on Liver Regeneration in Rats
+88genes and 8 control genes were analyzed with RT-PCR array
+RT-PCR array gene expressions:
 <!---
 aaozmen/aaozmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
